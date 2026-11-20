@@ -16,7 +16,7 @@ jobs:
         php: ['8.3', '8.4', '8.5']
     steps:
       - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
-      - uses: shivammathur/setup-php@fcafdd6392932010c2bd5094439b8e33be2a8a09 # 2.37.0
+      - uses: shivammathur/setup-php@accd6127cb78bee3e8082180cb391013d204ef9f # 2.37.0
         with:
           php-version: ${{ matrix.php }}
           extensions: ctype, dom, fileinfo, filter, gd, iconv, libxml, mbstring, pdo_mysql, simplexml, xml, xmlreader, xmlwriter, zip, zlib
