@@ -1,0 +1,6 @@
+Options -Indexes
+DirectoryIndex index.php
+CGIPassAuth On
+<Files "mount.local.php">
+    Require all denied
+</Files>

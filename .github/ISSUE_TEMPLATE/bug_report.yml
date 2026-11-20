@@ -1,0 +1,23 @@
+name: Bug report
+description: Report a reproducible problem with Catalog2CSV.
+body:
+  - type: input
+    id: environment
+    attributes:
+      label: Versions
+      description: Catalog2CSV, PHP and browser versions. Add WooCommerce if import is involved.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps and observed result
+      description: Use a small synthetic fixture. Keep credentials, personal data and live catalog information out of the report.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected result
+    validations:
+      required: true

@@ -1,0 +1,10 @@
+name: Feature request
+description: Suggest an improvement to the catalog conversion workflow.
+body:
+  - type: textarea
+    id: workflow
+    attributes:
+      label: Workflow and expected outcome
+      description: Describe the source format, desired action, and sample output using fictional data.
+    validations:
+      required: true

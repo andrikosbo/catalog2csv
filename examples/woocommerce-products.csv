@@ -1,0 +1,14 @@
+Type,SKU,Name,"Regular price",Published,Categories,Stock,"Short description",Description,"In stock?"
+simple,00042,"A5 Grid Notebook",4.50,-1,"Office > Stationery",24,"Grid pages for notes and sketches.","Soft cover with 80 pages.",1
+simple,OFF-102,"Black Ballpoint Pens",3.10,-1,"Office > Stationery",36,"Pack of four retractable pens.","Medium point with black ink.",1
+simple,OFF-103,"Binder Clips, Small",2.40,-1,"Office > Stationery",18,"Twelve reusable clips.","Holds receipts, notes and small stacks of paper.",1
+simple,OFF-104,"Paper Desk Pad",6.80,-1,"Office > Stationery",15,"A tear-off pad for daily planning.","Undated pages.
+Printed on both sides.",1
+simple,OFF-105,"Document Tray",11.95,-1,"Office > Organization",0,"A stackable A4 tray.","Open front for easy access.",0
+simple,OFF-106,"Label Roll",5.20,-1,"Office > Organization",10,"Matte writable labels.","Simple peel-and-stick labels for general use.",1
+simple,HOM-201,"Cotton Dish Cloth",3.35,-1,"Home > Kitchen",40,"A washable kitchen cloth.","Sold in natural white.",1
+simple,HOM-202,"Ceramic Mug 350 mL",8.75,-1,"Home > Kitchen",17,"Plain white glazed ceramic.","A classic mug for hot drinks.",1
+simple,HOM-203,"Glass Storage Jar",12.50,-1,"Home > Kitchen, Home > Storage",12,"Clear jar with a fitted lid.","Store dry goods on a shelf or in a pantry.",1
+simple,HOM-204,"Microfiber Cleaning Cloths",4.25,-1,"Home > Cleaning",28,"Three soft reusable cloths.","For household surfaces and dusting.",1
+simple,HOM-205,"Stackable Storage Basket",9.60,-1,"Home > Storage",8,"An open basket for small items.","Fits standard shelves and closets.",1
+simple,HOM-206,"Reusable Shopping Bag",2.90,-1,Home,,"A light foldable carry bag.","Folds flat for storage.",1

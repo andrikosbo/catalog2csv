@@ -1,0 +1,10 @@
+.DS_Store
+/vendor/
+/dist/
+/config/config.local.php
+/public/mount.local.php
+.env
+.env.*
+*.log
+*.sqlite
+*.sqlite3

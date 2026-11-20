@@ -1,0 +1,23 @@
+{
+    "name": "catalog2csv/catalog2csv",
+    "description": "Review supplier catalogs and export WooCommerce product CSV files.",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "php": "^8.3",
+        "ext-pdo": "*",
+        "ext-pdo_mysql": "*",
+        "phpoffice/phpspreadsheet": "^5.11"
+    },
+    "autoload": {
+        "psr-4": {"Catalog2Csv\\": "app/"}
+    },
+    "config": {
+        "platform": {"php": "8.3.0"},
+        "sort-packages": true
+    },
+    "scripts": {
+        "lint": "@php tools/lint.php",
+        "test": "@php tests/run.php"
+    }
+}
